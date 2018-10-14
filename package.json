@@ -1,0 +1,25 @@
+{
+  "name": "bishop",
+  "version": "0.1.0",
+  "description": "Chatbot for Reddit using Sendbird",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "request": "^2.88.0",
+    "sendbird": "^3.0.71"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bishop98/--Bishop.git"
+  },
+  "author": "Josh Wisser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bishop98/--Bishop/issues"
+  },
+  "homepage": "https://github.com/Bishop98/--Bishop#readme"
+}
